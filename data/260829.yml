@@ -1,0 +1,56 @@
+about:
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  license: BSD-3-Clause
+  homepage: https://age-encryption.org
+  head: d16b021
+  archived: false
+  latestVersion: v1.3.1
+  collectedAt: 2026-08-29T06:01:29Z
+timeline:
+  created: 2019-05-18
+  lastCommit: 2026-08-28
+  lastRelease: 2025-12-28
+popularity:
+  star: 23350
+  watcher: 156
+  fork: 665
+  release: 18
+  contributor: 62
+  pullRequest: 115
+  issue: 232
+language:
+  Go: 296490
+totalLine: 296490
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 7
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 5
+    openIssue: 3
+    commit: 8
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 6
+    openPR: 4
+    closedIssue: 6
+    openIssue: 6
+    commit: 12
+  last360d:
+    since: 2025-09-03
+    release: 2
+    mergedPR: 7
+    openPR: 6
+    closedIssue: 20
+    openIssue: 11
+    commit: 72
