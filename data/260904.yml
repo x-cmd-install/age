@@ -7,13 +7,13 @@ about:
   head: b74dce4
   archived: false
   latestVersion: v1.3.2
-  collectedAt: 2026-09-04T19:22:18Z
+  collectedAt: 2026-09-04T21:12:31Z
 timeline:
   created: 2019-05-18
   lastCommit: 2026-08-29
   lastRelease: 2026-08-29
 popularity:
-  star: 23418
+  star: 23419
   watcher: 157
   fork: 667
   release: 19
@@ -80,6 +80,39 @@ total:
   openIssue: 12
   commit: 431
 ---
+path: /home/runner/.x-repo/github.com/FiloSottile/age
+collectedAt: 2026-09-04T21:12:32Z
+loc:
+  Go:
+    code: 9007
+    comments: 1005
+    blanks: 1187
+    files: 47
+  Svg:
+    code: 1158
+    comments: 2
+    blanks: 0
+    files: 2
+  Html:
+    code: 674
+    comments: 28
+    blanks: 176
+    files: 4
+  Markdown:
+    code: 0
+    comments: 287
+    blanks: 72
+    files: 3
+  Text:
+    code: 0
+    comments: 722
+    blanks: 106
+    files: 17
+total:
+  code: 10994
+  comments: 2048
+  blanks: 1543
+  files: 73
 ---
 date: "2026-08-24"
 repo:
