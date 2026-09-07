@@ -5,13 +5,13 @@ about:
   head: b74dce4
   archived: false
   latestVersion: "v1.3.2"
-  collectedAt: 2026-09-07T05:24:36Z
+  collectedAt: 2026-09-07T19:09:53Z
 timeline:
   created: 2019-05-18
   lastCommit: 2026-08-29
   lastRelease: 2026-08-29
 popularity:
-  star: 23450
+  star: 23457
   watcher: 158
   fork: 669
   release: 19
@@ -79,7 +79,7 @@ total:
   commit: 431
 ---
 path: /home/runner/.x-repo/github.com/FiloSottile/age
-collectedAt: 2026-09-07T05:24:36Z
+collectedAt: 2026-09-07T19:09:54Z
 loc:
   Go:
     code: 9007
@@ -232,7 +232,7 @@ checks:
       - 'Info: Found text in security policy: github.com/FiloSottile/.github/SECURITY.md:1'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:37+00:00
+  collectedAt: 2026-09-07T19:09:55+00:00
   platform:
     darwin/arm64:
       name:  age-v1.3.2-darwin-arm64.tar.gz
