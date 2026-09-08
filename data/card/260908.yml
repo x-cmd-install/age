@@ -5,13 +5,13 @@ about:
   head: b74dce4
   archived: false
   latestVersion: "v1.3.2"
-  collectedAt: 2026-09-08T02:29:26Z
+  collectedAt: 2026-09-08T05:20:54Z
 timeline:
   created: 2019-05-18
   lastCommit: 2026-08-29
   lastRelease: 2026-08-29
 popularity:
-  star: 23458
+  star: 23461
   watcher: 158
   fork: 669
   release: 19
@@ -79,7 +79,7 @@ total:
   commit: 431
 ---
 path: /home/runner/.x-repo/github.com/FiloSottile/age
-collectedAt: 2026-09-08T02:29:27Z
+collectedAt: 2026-09-08T05:20:55Z
 loc:
   Go:
     code: 9007
