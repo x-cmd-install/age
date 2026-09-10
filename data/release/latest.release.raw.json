@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 19376787,
       "digest": "sha256:1d1e4bc66e1427edad7739ae7616157de0e79db8b6d2a1497d7d9925fb06a539",
-      "download_count": 488,
+      "download_count": 499,
       "created_at": "2026-08-29T17:56:53Z",
       "updated_at": "2026-08-29T17:56:54Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1921,
       "digest": "sha256:b6930f50fd0e253c351b66d91239cf15d6c3d35282b1ec18ce63a525d5da2e28",
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2026-08-29T18:04:17Z",
       "updated_at": "2026-08-29T18:04:18Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-darwin-amd64.tar.gz.proof"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18106798,
       "digest": "sha256:e2020b073c44f692685a24d6abc378817eb81ffaaf49fd0531ef8565f767f2f5",
-      "download_count": 6233,
+      "download_count": 6404,
       "created_at": "2026-08-29T17:56:53Z",
       "updated_at": "2026-08-29T17:56:54Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-darwin-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19405817,
       "digest": "sha256:cbe24006683f8eb669266162894b9a522a1af52f2665fbc63a4bb032ed26ac10",
-      "download_count": 67429,
+      "download_count": 69429,
       "created_at": "2026-08-29T17:56:53Z",
       "updated_at": "2026-08-29T17:56:54Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1921,
       "digest": "sha256:98402fa59b4e433426156b4a7e74a32e44902e0434c61158f7de18ffc84f1f97",
-      "download_count": 372,
+      "download_count": 380,
       "created_at": "2026-08-29T18:04:17Z",
       "updated_at": "2026-08-29T18:04:17Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-linux-amd64.tar.gz.proof"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 19035952,
       "digest": "sha256:0ceba62c92701b30b3336abf064714c1a6ea5fa0c75ee367ce36d4f9c0f8e6ce",
-      "download_count": 100,
+      "download_count": 103,
       "created_at": "2026-08-29T17:56:53Z",
       "updated_at": "2026-08-29T17:56:54Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-linux-arm.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 17771923,
       "digest": "sha256:6b8dc4333c53a5a57c9e5834e3a48f92605d7154014cd07269ff3327db5d37f4",
-      "download_count": 2885,
+      "download_count": 2977,
       "created_at": "2026-08-29T17:56:54Z",
       "updated_at": "2026-08-29T17:56:55Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-linux-arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 20250704,
       "digest": "sha256:f48d8f8f9ebe903ab5027ed067652f2cc1db94bc206976430133b905dcd8e8c7",
-      "download_count": 4443,
+      "download_count": 4533,
       "created_at": "2026-08-29T17:56:54Z",
       "updated_at": "2026-08-29T17:56:55Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-windows-amd64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1921,
       "digest": "sha256:00ae35a24a47b9bace52ec62f06d402f38f6ecba4ca099d060a137e82ef0bc1d",
-      "download_count": 238,
+      "download_count": 239,
       "created_at": "2026-08-29T18:04:18Z",
       "updated_at": "2026-08-29T18:04:18Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-windows-amd64.zip.proof"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 18467630,
       "digest": "sha256:fae351336c8d5f30f93cc3ccdec16d1ed7851d68cdd6656d41955cc31a447c9d",
-      "download_count": 171,
+      "download_count": 173,
       "created_at": "2026-08-29T17:56:54Z",
       "updated_at": "2026-08-29T17:56:55Z",
       "browser_download_url": "https://github.com/FiloSottile/age/releases/download/v1.3.2/age-v1.3.2-windows-arm64.zip"
