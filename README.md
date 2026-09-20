@@ -4,7 +4,7 @@
 
 A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 
-![age](https://repo.x-cmd.io/age.svg)
+[![x-cmd/install — age Code Quality Monitoring Repo Card](https://repo.x-cmd.io/age.svg)](https://x-cmd.com/install/age)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,619 · **Forks**: 670 · **Open issues**: 234 · **Contributors**: 65
+- **Stars**: 23,632 · **Forks**: 669 · **Open issues**: 234 · **Contributors**: 65
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 1 | 2 | 1 | 44 |
-| last60d | 2026-07-20 | 1 | 1 | 1 | 6 | 1 | 45 |
-| 90d | 2026-06-20 | 1 | 2 | 2 | 8 | 2 | 45 |
-| last180d | 2026-03-22 | 1 | 4 | 4 | 11 | 2 | 46 |
-| 360d | 2025-09-23 | 3 | 9 | 6 | 24 | 6 | 108 |
-| last720d | 2024-09-28 | 4 | 13 | 6 | 39 | 7 | 121 |
+| 30d | 2026-08-21 | 1 | 1 | 1 | 2 | 1 | 44 |
+| last60d | 2026-07-22 | 1 | 1 | 1 | 6 | 1 | 45 |
+| 90d | 2026-06-22 | 1 | 2 | 2 | 7 | 2 | 45 |
+| last180d | 2026-03-24 | 1 | 4 | 4 | 11 | 2 | 46 |
+| 360d | 2025-09-25 | 3 | 9 | 6 | 24 | 6 | 108 |
+| last720d | 2024-09-30 | 4 | 13 | 6 | 39 | 7 | 121 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for age lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:41:58Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:23Z._
