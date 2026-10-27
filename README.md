@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — no SAST tool detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,062 · **Forks**: 680 · **Open issues**: 237 · **Contributors**: 65
+- **Stars**: 24,081 · **Forks**: 681 · **Open issues**: 237 · **Contributors**: 65
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last60d | 2026-08-27 | 1 | 1 | 4 | 1 | 4 | 0 |
-| 90d | 2026-07-28 | 1 | 1 | 4 | 5 | 4 | 44 |
-| last180d | 2026-04-29 | 1 | 3 | 6 | 11 | 5 | 45 |
-| 360d | 2025-10-31 | 3 | 9 | 9 | 23 | 9 | 108 |
-| last720d | 2024-11-05 | 4 | 13 | 9 | 39 | 10 | 121 |
+| 30d | 2026-09-27 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last60d | 2026-08-28 | 1 | 1 | 4 | 1 | 4 | 0 |
+| 90d | 2026-07-29 | 1 | 1 | 4 | 5 | 4 | 44 |
+| last180d | 2026-04-30 | 1 | 3 | 6 | 11 | 5 | 45 |
+| 360d | 2025-11-01 | 3 | 9 | 9 | 23 | 9 | 108 |
+| last720d | 2024-11-06 | 4 | 13 | 9 | 39 | 10 | 121 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for age lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:18:31Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:46:50Z._
