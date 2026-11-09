@@ -30,8 +30,8 @@ x install age
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install age
 
 ## 流行度
 
-- **Star**: 24,240 · **Fork**: 678 · **开放 issue**: 239 · **贡献者**: 65
+- **Star**: 24,254 · **Fork**: 678 · **开放 issue**: 239 · **贡献者**: 65
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install age
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 4 | 0 | 5 | 0 |
-| 90d | 2026-08-10 | 1 | 1 | 4 | 4 | 6 | 44 |
-| last180d | 2026-05-12 | 1 | 3 | 6 | 11 | 7 | 45 |
-| 360d | 2025-11-13 | 3 | 9 | 9 | 23 | 11 | 108 |
-| last720d | 2024-11-18 | 4 | 13 | 9 | 38 | 12 | 121 |
+| 30d | 2026-10-10 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last60d | 2026-09-10 | 0 | 0 | 4 | 0 | 5 | 0 |
+| 90d | 2026-08-11 | 1 | 1 | 4 | 4 | 6 | 44 |
+| last180d | 2026-05-13 | 1 | 3 | 6 | 10 | 7 | 45 |
+| 360d | 2025-11-14 | 3 | 9 | 9 | 23 | 11 | 105 |
+| last720d | 2024-11-19 | 4 | 13 | 9 | 38 | 12 | 121 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ age 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:49:49Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T07:07:25Z._
